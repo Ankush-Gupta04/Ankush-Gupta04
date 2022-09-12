@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ankush-Gupta04
 - 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning dsa
 - 💞️ I’m looking to collaborate on coding projects.
 - 📫 Connect me through my linked in - https://www.linkedin.com/in/ankush-gupta-9a9211224
 
