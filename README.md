@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Ankush-Gupta04
-- 👀 I’m interested in coding and music.
-- 💞️ I’m looking to collaborate on coding projects.
-- 📫 Connect me through my linked in - https://www.linkedin.com/in/ankush-gupta-9a9211224
+I am an undergraduate student pursuing Computer Science and Engineering at the Indraprastha Institute of Information Technology Delhi (IIITD). I possess a strong passion for software development and am actively engaged in enhancing my problem-solving abilities. My current focus revolves around conducting research and undertaking projects that delve into cutting-edge technological domains, thereby allowing me to explore the realms of next-generation technologies.
 
 <!---
 Ankush-Gupta04/Ankush-Gupta04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
